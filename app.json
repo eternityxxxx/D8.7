@@ -1,0 +1,6 @@
+{
+  "name": "ToDoList",
+  "description": "My personal ToDoList app",
+  "image": "heroku/python",
+  "keywords": ["django", "python"]
+}
